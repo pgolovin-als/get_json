@@ -1,11 +1,14 @@
 {
-  "action":"filtrpersons",
-  "code":200,
-  "response":[
-    {"id":"1216714785","name":"Sergey","surname":"Alexandrov","photo":"1216714785.jpg","status":"1"},
-    {"id":"1315581588","name":"Elizaveta","surname":"Bogdanovich","photo":"1315581588.jpg","status":"1"},
-    {"id":"1308929479","name":"Bad","surname":"Bugaev","photo":"1308929478.jpg","status":"1"},
-    {"id":"1242286484","name":"Tamara","surname":"Krapivina","photo":"1242286483.jpg","status":"1"},
-    {"id":"1270129775","name":"Konstantin","surname":"Efimov","photo":"1270129774.jpg","status":"1"},
-    {"id":"1315464326","name":"Veronika","surname":"Ershova","photo":"1315496083.jpg","status":"1"}
-]}
+  "wrs": {
+    "action":"filtrpersons",
+    "code":200,
+    "response":[
+      {"id":"1216714785","name":"Sergey","surname":"Alexandrov","photo":"1216714785.jpg","status":"1"},
+      {"id":"1315581588","name":"Elizaveta","surname":"Bogdanovich","photo":"1315581588.jpg","status":"1"},
+      {"id":"1308929479","name":"Bad","surname":"Bugaev","photo":"1308929478.jpg","status":"1"},
+      {"id":"1242286484","name":"Tamara","surname":"Krapivina","photo":"1242286483.jpg","status":"1"},
+      {"id":"1270129775","name":"Konstantin","surname":"Efimov","photo":"1270129774.jpg","status":"1"},
+      {"id":"1315464326","name":"Veronika","surname":"Ershova","photo":"1315496083.jpg","status":"1"}
+    ]
+  }
+}
